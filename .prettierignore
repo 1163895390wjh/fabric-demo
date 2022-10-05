@@ -1,0 +1,18 @@
+# .prettierignore 文件配置
+/node_modules
+/dist
+/src/lib/
+/src/global/fonts
+
+
+/docs
+/.vscode
+node_modules
+jsconfig.json
+jest.config.js
+.eslintrc.js
+package.json
+package-lock.json
+/src/vite-env.d.ts
+src/icons
+src/assets
